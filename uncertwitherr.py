@@ -52,7 +52,7 @@ def main():
             "general_average": "General Average",
             "between_days": "Between Days Repeatability",
             "within_days": "Within Days Repeatability",
-            "general_uncertainty": "General Uncertainty",
+            "general_uncertainty": "Uncertainty",
             "error_bar": "Error Bar Graph",
         }
     }
