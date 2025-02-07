@@ -108,7 +108,7 @@ def main():
         st.write(f"**{t['general_average']}:** {overall_avg:.4f}")
         st.write(f"**{t['between_days']}:** {repeatability_between_days:.4f}")
         st.write(f"**{t['within_days']}:** {repeatability_within_days:.4f}") 
-        st.write(f"**{t['general_uncertainty']}:** {overall_uncertainty:.4f}")
+        st.write(f"**{t['standard_uncertainty']}:** {overall_uncertainty:.4f}")
         st.write(f"**{t['expanded_uncertainty']}:** {expanded_overall_uncertainty:.4f}")
         
         # Hata barı grafiği
